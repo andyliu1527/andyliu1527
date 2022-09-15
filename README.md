@@ -1,4 +1,6 @@
-### Hi there 👋
+<p>
+  <img src ="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=2000&color=72F7B7&width=435&lines=Hello+World%2C++I+Am+Andy+Liu"
+</p>
 
 <!--
 **andyliu1527/andyliu1527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
